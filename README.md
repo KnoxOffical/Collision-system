@@ -1,2 +1,2 @@
 # Collision-system
-Collision system in Pygame
+This is basically a super easy to understand collision system!
